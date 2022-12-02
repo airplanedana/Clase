@@ -1,0 +1,15 @@
+C:\Users\danag\source\repos\Clase\Clase\obj\Debug\net6.0\Clase.csproj.AssemblyReference.cache
+C:\Users\danag\source\repos\Clase\Clase\obj\Debug\net6.0\Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danag\source\repos\Clase\Clase\obj\Debug\net6.0\Clase.AssemblyInfoInputs.cache
+C:\Users\danag\source\repos\Clase\Clase\obj\Debug\net6.0\Clase.AssemblyInfo.cs
+C:\Users\danag\source\repos\Clase\Clase\obj\Debug\net6.0\Clase.csproj.CoreCompileInputs.cache
+C:\Users\danag\source\repos\Clase\Clase\bin\Debug\net6.0\Clase.exe
+C:\Users\danag\source\repos\Clase\Clase\bin\Debug\net6.0\Clase.deps.json
+C:\Users\danag\source\repos\Clase\Clase\bin\Debug\net6.0\Clase.runtimeconfig.json
+C:\Users\danag\source\repos\Clase\Clase\bin\Debug\net6.0\Clase.dll
+C:\Users\danag\source\repos\Clase\Clase\bin\Debug\net6.0\ref\Clase.dll
+C:\Users\danag\source\repos\Clase\Clase\bin\Debug\net6.0\Clase.pdb
+C:\Users\danag\source\repos\Clase\Clase\obj\Debug\net6.0\Clase.dll
+C:\Users\danag\source\repos\Clase\Clase\obj\Debug\net6.0\ref\Clase.dll
+C:\Users\danag\source\repos\Clase\Clase\obj\Debug\net6.0\Clase.pdb
+C:\Users\danag\source\repos\Clase\Clase\obj\Debug\net6.0\Clase.genruntimeconfig.cache
